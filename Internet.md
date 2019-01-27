@@ -29,8 +29,11 @@ https://opensource.com/alternatives
 https://alternativeto.net/
 
 Microsoft Word -> [libreoffice]()
+
 Google Android Rom -> [LineageOS]()
+
 WhatsApp -> [Signal]()
+
 Google Play -> [F-Droid]()
 
 
