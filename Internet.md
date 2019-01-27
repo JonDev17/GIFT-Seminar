@@ -26,6 +26,7 @@ Facebook              facebookcorewwwi.onion
 ## Free and Open Source Software
 
 https://opensource.com/alternatives
+
 https://alternativeto.net/
 
 Microsoft Word -> [libreoffice]()
@@ -35,5 +36,7 @@ Google Android Rom -> [LineageOS]()
 WhatsApp -> [Signal]()
 
 Google Play -> [F-Droid]()
+
+Windows -> [Linux](), ([Ubuntu](), [Mint](), [Debian](), [nixOS]())
 
 
