@@ -20,8 +20,11 @@ arpspoofing:
 
 Onion Seiten:
 DuckDuckGo            3g2upl4pq6kufc4m.onion
+
 WikiLeaks Submission  wlupld3ptjvsgwqw.onion
+
 Facebook              facebookcorewwwi.onion
+
 
 ## Free and Open Source Software
 
