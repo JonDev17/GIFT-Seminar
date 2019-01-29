@@ -1,13 +1,15 @@
+Bei beliebeigen Programmen, Befehlen oder Videos könnt ihr mich anschreiben, wenn ihr Hilfe braucht (zB beim Installieren)
+
 ## In der Präsentation verwendete Befehle/ Programme:
 
 | Linux         | Windows       | MacOS X  |
 | ------------- | ------------- | -------- |
 | ifconfig      | ipconfig (?)  |          |
 | ping          | ping          |          |
-| traceroute    |               |          |
+| traceroute    | tracert       |          |
 
 * [wireshark](https://www.wireshark.org/)
-* dsniff
+* [dsniff](https://www.monkey.org/~dugsong/dsniff/)
 
 arpspoofing:
 
@@ -15,8 +17,9 @@ arpspoofing:
 
 `sudo sysctl net.ipv4.ip_forward=1`
 
+
 ## Tor
-(https://www.torproject.org/)
+[Tor-Browser herunterladen](https://www.torproject.org/)
 
 Onion Seiten:
 DuckDuckGo            3g2upl4pq6kufc4m.onion
@@ -29,10 +32,14 @@ Facebook              facebookcorewwwi.onion
 
 [Passwörter - Linus Neumann](https://www.youtube.com/watch?v=Nj2HReHkoQ4)
 
-### 35c3
-* https://www.youtube.com/watch?v=OBFJiUG9IgU
+### Tor
 
-* https://www.youtube.com/watch?v=30JAf6OWei0
+[superschnelle Einführung in Tor](https://www.youtube.com/watch?v=wlP1JrfvUo0)
+
+### Hacken
+* [Hackerethik - eine Einführung](https://www.youtube.com/watch?v=OBFJiUG9IgU)
+
+* [G10, BND-Gesetz und der effektive Schutz vor Grundrechten](https://www.youtube.com/watch?v=30JAf6OWei0)
 
 * [Smart Home - Smart hack](https://www.youtube.com/watch?v=urnNfS6tWAY)
 
@@ -47,18 +54,20 @@ Facebook              facebookcorewwwi.onion
 
 ## Free and Open Source Software
 
+Auf folgenden Seiten findet ihr Open Source Alternativen:
+
 https://opensource.com/alternatives
 
 https://alternativeto.net/
 
-Microsoft Word -> [libreoffice]()
+Microsoft Word -> [libreoffice](https://www.libreoffice.org/)
 
-Google Android Rom -> [LineageOS]()
+Google Android Rom -> [LineageOS](https://www.lineageos.org/)
 
-WhatsApp -> [Signal]()
+WhatsApp -> [Signal](https://signal.org/), [Briar](https://briarproject.org), [Wire](https://app.wire.com)
 
-Google Play -> [F-Droid]()
+Google Play -> [F-Droid](https://f-droid.org/)
 
-Windows -> [Linux](), ([Ubuntu](), [Mint](), [Debian](), [nixOS]())
+Windows -> [Linux](https://www.linux.com/), ([Ubuntu](https://www.ubuntu.com/), [Mint](https://linuxmint.com/), [Debian](https://www.debian.org/), [nixOS](https://nixos.org/))
 
 
